@@ -283,6 +283,11 @@
                 rgba(255, 0, 255, 0.3));
         }
 
+#insta{
+    height: 25px;
+    width: 25px;
+}
+
         .footer-links {
             list-style: none;
         }
